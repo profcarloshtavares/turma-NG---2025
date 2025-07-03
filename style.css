@@ -5,8 +5,18 @@ body{
     font-family: sans-serif;
 }
 header{
-    border-bottom: solid 4px rgb(150, 248, 2);
+    border-bottom: ridge 4px rgb(150, 248, 2);
     padding: 10px;
     font-size: 32px;
     color: yellow;
+}
+section{
+    background: blue;
+    padding-bottom: 80px;
+    padding-top:80px ;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
